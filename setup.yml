@@ -5,4 +5,4 @@
         pass: Qwe123!
         user: drake.admin
   roles:
-     - role: City-of-Bloomington.winbind
+     - City-of-Bloomington.winbind
