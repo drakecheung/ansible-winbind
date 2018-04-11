@@ -1,8 +1,8 @@
 - hosts: all
   vars:
-      winbind_domain: appcara.net
-      winbind_domain_admin:
-        pass: Qwe123!
-        user: drake.admin
+    winbind_domain: appcara.net
+    winbind_domain_admin:
+      pass: Qwe123!
+      user: drake.admin
   roles:
      - City-of-Bloomington.winbind
